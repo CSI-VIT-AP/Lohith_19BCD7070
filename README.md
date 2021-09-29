@@ -1,5 +1,5 @@
-# Lohith_19BCD7070
-Sample website 
+# Lohith_19BCD7070_Portfolio
+Personal Portfolio 
 Hi,
 I am Lohith-CSI Marketing Colead.I have a prior knowledge in Web Development Languages like html,css.
 So, I Created a sample website.
